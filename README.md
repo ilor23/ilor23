@@ -1,7 +1,7 @@
 #sobre min 👋
-_ Ola, eu sol ilor gabriel noga
-_ Atuaumente etudo em CECMPS
-_ istagram:@ilorgabrielnoga
+- Ola, eu sol ilor gabriel noga
+- Atuaumente etudo em CECMPS
+- istagram:@ilorgabrielnoga
 <!--
 **ilor23/ilor23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
