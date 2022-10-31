@@ -1,6 +1,29 @@
  header {
-     background: rgb(0, 140, 255);
+     background: rgb(2, 84, 248);
  }
 nav li {
     display: inline;
+    margin-left:10px ;
+}
+#logo {
+
+    width:250px;
+}
+nav  {
+
+    display: inline-block;
+}
+
+nav li {
+   display: inline;
+  margin-left: 15px;
+}
+
+
+nav a {
+    texte-transform: uppercase;
+    color:black;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
 }
